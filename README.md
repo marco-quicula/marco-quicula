@@ -8,12 +8,15 @@ My performance in the teams where I have been present is remarkable, and I am of
 
 I share an interest in exchanging insights, ideas, and perspectives. This is an open invitation to explore ways to drive innovation and achieve exceptional results through the inspiring exchange of experiences. Feel free to get in touch and start this collaborative journey.
 
+Additionally, my project repositories are hosted in the organization [My Virtual HUB](https://github.com/my-virtual-hub).
+
 - 📫 How to reach me ...
+
+**Github Organization:** [My Virtual HUB](https://github.com/my-virtual-hub)
   
 **Email:** myvirtualhub@myvirtualhub.com.br | marco.quicula@quicula.com.br
-**Email:** marco.quicula@quicula.com.br
   
-**Website:** www.quicula.com.br
+**Website:** www.myvirtualhub.com.br | www.quicula.com.br
 
 **LinkedIn:** https://www.linkedin.com/in/marco-quicula/
 
