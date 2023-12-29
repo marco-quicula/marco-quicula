@@ -10,6 +10,7 @@ I share an interest in exchanging insights, ideas, and perspectives. This is an 
 
 - 📫 How to reach me ...
   
+**Email:** myvirtualhub@myvirtualhub.com.br | marco.quicula@quicula.com.br
 **Email:** marco.quicula@quicula.com.br
   
 **Website:** www.quicula.com.br
