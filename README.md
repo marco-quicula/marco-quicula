@@ -10,6 +10,11 @@ I share an interest in exchanging insights, ideas, and perspectives. This is an 
 
 Additionally, my project repositories are hosted in the organization [My Virtual HUB](https://github.com/my-virtual-hub).
 
+Visit the Clube dos Devs community. No matter your experience in IT—whether you’re a beginner seeking support, someone wanting to learn something new, in a career transition, or looking to help others—our space is for everyone.
+[Clube dos Devs - Site](https://clubedosdevs.com.br/)
+[Clube dos Devs - GitHub](https://github.com/clubedosdevs)
+[Clube dos Devs - LinkedIn](https://www.linkedin.com/groups/13101366/)
+
 - 📫 How to reach me ...
 
 **Github Organization:** [My Virtual HUB](https://github.com/my-virtual-hub)
