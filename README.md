@@ -24,14 +24,6 @@ Visit the Clube dos Devs community. No matter your experience in IT—whether yo
 
 [Clube dos Devs - LinkedIn](https://www.linkedin.com/groups/13101366/)
 
-- 📫 **How to reach me ...**
-  
-**Email:** marco.quicula@quicula.com.br
-  
-**Website:** https://marcoquicula.link
-
-**LinkedIn:** https://www.linkedin.com/in/marco-quicula/
-
 <!---
 marco-quicula/marco-quicula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
