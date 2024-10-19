@@ -8,9 +8,13 @@ My performance in the teams where I have been present is remarkable, and I am of
 
 I share an interest in exchanging insights, ideas, and perspectives. This is an open invitation to explore ways to drive innovation and achieve exceptional results through the inspiring exchange of experiences. Feel free to get in touch and start this collaborative journey.
 
-Additionally, my project repositories are hosted in the organization [My Virtual HUB](https://github.com/my-virtual-hub).
+- **My Virtual Hub (My Organization)**
+ 
+Additionally, I also have project repositories hosted in the organization [My Virtual HUB](https://github.com/my-virtual-hub).
 
-- **Clube dos Devs**
+**Website:** www.myvirtualhub.com.br
+
+- **Clube dos Devs (Comunidade Colaborativa**
 
 Visit the Clube dos Devs community. No matter your experience in IT—whether you’re a beginner seeking support, someone wanting to learn something new, in a career transition, or looking to help others—our space is for everyone.
 
@@ -21,12 +25,10 @@ Visit the Clube dos Devs community. No matter your experience in IT—whether yo
 [Clube dos Devs - LinkedIn](https://www.linkedin.com/groups/13101366/)
 
 - 📫 **How to reach me ...**
-
-**Github Organization:** [My Virtual HUB](https://github.com/my-virtual-hub)
   
-**Email:** myvirtualhub@myvirtualhub.com.br | marco.quicula@quicula.com.br
+**Email:** marco.quicula@quicula.com.br
   
-**Website:** www.myvirtualhub.com.br | www.quicula.com.br
+**Website:** https://marcoquicula.link
 
 **LinkedIn:** https://www.linkedin.com/in/marco-quicula/
 
