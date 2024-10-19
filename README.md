@@ -28,6 +28,9 @@ Visit the Clube dos Devs community. No matter your experience in IT—whether yo
 
 [Clube dos Devs - LinkedIn](https://www.linkedin.com/groups/13101366/)
 
+---
+GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 marco-quicula/marco-quicula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
