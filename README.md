@@ -14,7 +14,7 @@ Additionally, I also have project repositories hosted in the organization [My Vi
 
 **Website:** www.myvirtualhub.com.br
 
-- **Clube dos Devs (Comunidade Colaborativa**
+- **Clube dos Devs**
 
 Visit the Clube dos Devs community. No matter your experience in IT—whether you’re a beginner seeking support, someone wanting to learn something new, in a career transition, or looking to help others—our space is for everyone.
 
