@@ -8,13 +8,17 @@ My performance in the teams where I have been present is remarkable, and I am of
 
 I share an interest in exchanging insights, ideas, and perspectives. This is an open invitation to explore ways to drive innovation and achieve exceptional results through the inspiring exchange of experiences. Feel free to get in touch and start this collaborative journey.
 
-- **My Virtual Hub (My Organization)**
+![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=transparent)
+
+---
+- My Virtual Hub (My Organization)
  
 Additionally, I also have project repositories hosted in the organization [My Virtual HUB](https://github.com/my-virtual-hub).
 
-**Website:** www.myvirtualhub.com.br
+Website: www.myvirtualhub.com.br
 
-- **Clube dos Devs**
+---
+- Clube dos Devs
 
 Visit the Clube dos Devs community. No matter your experience in IT—whether you’re a beginner seeking support, someone wanting to learn something new, in a career transition, or looking to help others—our space is for everyone.
 
