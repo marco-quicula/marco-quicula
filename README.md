@@ -8,7 +8,7 @@ My performance in the teams where I have been present is remarkable, and I am of
 
 I share an interest in exchanging insights, ideas, and perspectives. This is an open invitation to explore ways to drive innovation and achieve exceptional results through the inspiring exchange of experiences. Feel free to get in touch and start this collaborative journey.
 
-![octocat](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=192) ![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)![Octocat](https://2.gravatar.com/userimage/243593568/0cc3d5aff0858be2000e01bb7fe1ce9b?size=192)
+![octocat](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=192)![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)![Octocat](https://2.gravatar.com/userimage/243593568/0cc3d5aff0858be2000e01bb7fe1ce9b?size=192)
 
 ---
 - My Virtual Hub (My Organization)
