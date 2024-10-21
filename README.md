@@ -11,7 +11,7 @@ I share an interest in exchanging insights, ideas, and perspectives. This is an 
 ![Techie](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=128)![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)![CodeCaster](https://2.gravatar.com/userimage/243593568/0cc3d5aff0858be2000e01bb7fe1ce9b?size=128)
 
 ---
-![Microsoft Certified: Azure Fundamentals]([http://marcoquicula.link](https://learn.microsoft.com/api/credentials/share/en-us/marcoquicula/57BB18A1279B3B7D?sharingId=8A0D5FF1F834B023))
+![Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/marcoquicula/57BB18A1279B3B7D?sharingId=8A0D5FF1F834B023)
 
 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="20%">
 
