@@ -8,7 +8,9 @@ My performance in the teams where I have been present is remarkable, and I am of
 
 I share an interest in exchanging insights, ideas, and perspectives. This is an open invitation to explore ways to drive innovation and achieve exceptional results through the inspiring exchange of experiences. Feel free to get in touch and start this collaborative journey.
 
-![Techie](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=128)![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)![CodeCaster](https://2.gravatar.com/userimage/243593568/0cc3d5aff0858be2000e01bb7fe1ce9b?size=128)
+![Techie](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=128)![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)
+
+![CodeCaster](https://2.gravatar.com/userimage/243593568/0cc3d5aff0858be2000e01bb7fe1ce9b?size=128)[![marco-quicula](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-quicula&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/marcoquicula/57BB18A1279B3B7D?sharingId=8A0D5FF1F834B023)
