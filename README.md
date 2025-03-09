@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @marco-quicula
+## 👋 Hi, I'm Marco Quiçula!
 
-Organized, responsible, committed, self-taught professional with extensive experience in the development, analysis, and implementation of corporate systems, especially focused on Java technologies. In addition, I have a solid understanding of .NET technologies due to previous experience.
+I'm a **Tech Lead** and **Senior Software Engineer**—organized, responsible, self-taught, and deeply passionate about crafting robust, secure, and scalable software solutions, especially with **Java technologies**.
 
-I seek to channel my experience and skills, both technical and behavioral, to support and develop teams in companies that recognize the importance of digital transformation in enhancing products and services. I believe that this approach is fundamental to boosting not only the organization but also the market in which it operates.
+Throughout my career, I've become a recognized technical reference, valued for my commitment to quality, innovation, and mentoring teams toward collective growth. My goal is always to foster collaboration and create meaningful solutions that drive digital transformation.
 
-My performance in the teams where I have been present is remarkable, and I am often recognized as a leader who facilitates collaboration and encourages collective growth. My ability to involve and motivate colleagues has contributed to the successful delivery of high-quality projects. I am always open to discussions and explorations of challenges, as well as enriching exchanges of experiences.
+I truly believe innovation emerges from open dialogue and constant exchange of ideas—not only about code but also about life, career development, and new tech challenges.
 
-I share an interest in exchanging insights, ideas, and perspectives. This is an open invitation to explore ways to drive innovation and achieve exceptional results through the inspiring exchange of experiences. Feel free to get in touch and start this collaborative journey.
+Feel free to explore my projects, contribute, or reach out.  
+Let's build something amazing together! 🚀✨
+
 
 ![Techie](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=128)![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)
 
