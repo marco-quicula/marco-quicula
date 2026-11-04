@@ -10,9 +10,9 @@ Feel free to explore my projects, contribute, or reach out.
 Let's build something amazing together! 🚀✨
 
 
-![Techie](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=128)![Marco Quiçula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)
+![Techie](https://2.gravatar.com/userimage/243593568/083e27529f6cd38f5f022f95f0bf0189?size=128)![Marco Quiçula's GitHub Stats](https://github-stats-extended.vercel.app/api?username=marco-quicula&show_icons=true&theme=github_dark)
 
-![CodeCaster](https://2.gravatar.com/userimage/243593568/0cc3d5aff0858be2000e01bb7fe1ce9b?size=128)[![marco-quicula](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-quicula&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![CodeCaster](https://2.gravatar.com/userimage/243593568/0cc3d5aff0858be2000e01bb7fe1ce9b?size=128)[![marco-quicula](https://github-stats-extended.vercel.app/api/top-langs/?username=marco-quicula&show_icons=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/marcoquicula/57BB18A1279B3B7D?sharingId=8A0D5FF1F834B023)
@@ -27,7 +27,7 @@ Additionally, I also have project repositories hosted in the organization [My Vi
 Website: www.myvirtualhub.com.br
 
 ---
-GitHub Stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+GitHub Stats by [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), based on [anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 My Octocats (Techie and CodeCaster) by [myoctocat](https://myoctocat.com/)
 
