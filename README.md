@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Marco Quiçula!
 
-I'm a **Tech Lead** and **Senior Software Engineer**—organized, responsible, self-taught, and deeply passionate about crafting robust, secure, and scalable software solutions, especially with **Java technologies**.
+I'm a **Senior Software Engineer**, self-taught, building corporate systems since 1998, mostly **Java** backend and **software architecture**. Along the way I've also worked as **Tech Lead** and **Software Architect**, and I'm passionate about crafting robust, secure, and scalable solutions.
 
 Throughout my career, I've become a recognized technical reference, valued for my commitment to quality, innovation, and mentoring teams toward collective growth. My goal is always to foster collaboration and create meaningful solutions that drive digital transformation.
 
@@ -20,11 +20,11 @@ Let's build something amazing together! 🚀✨
 <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="20%">
 
 ---
-- My Virtual Hub (My Organization)
- 
-Additionally, I also have project repositories hosted in the organization [My Virtual HUB](https://github.com/myvirtualhub).
+## Where to find me
 
-Website: www.myvirtualhub.com.br
+- **[myvirtualhub.com.br](https://myvirtualhub.com.br)**: my personal hub, with what I write, read, watch and build (mostly in Portuguese).
+- **[refatorado.com.br](https://refatorado.com.br)**: home of my own projects, such as **Kaizent** (under construction).
+- **[My Virtual HUB](https://github.com/myvirtualhub)**: GitHub organization with more of my project repositories.
 
 ---
 GitHub Stats by [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended), based on [anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
